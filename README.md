@@ -15,3 +15,4 @@ Friday was the strongest sales day and Monday the weakest. January was the highe
 
 ## Project Files
 The full analysis, including cleaning formulas, pivot tables, and charts, is available in the linked workbook below. The complete written findings and recommendations are available in the Key Insights document.
+https://github.com/Thelma-Kepe/retail_store_sales_analysis/blob/main/Retail%20store%20sales%20Key%20Insights.docx
